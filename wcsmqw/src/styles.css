@@ -70,7 +70,10 @@ body {
   text-align: center;
   width: 34px;
 }
-
+.board-row{
+  width:99px;
+  height: 33px;
+}
 .board-row:after {
   clear: both;
   content: '';
